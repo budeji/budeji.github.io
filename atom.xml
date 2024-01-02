@@ -61,4 +61,27 @@
     
   </entry>
   
+  <entry>
+    <title>异步电机习题课</title>
+    <link href="http://example.com/2023/01/02/xiti4/"/>
+    <id>http://example.com/2023/01/02/xiti4/</id>
+    <published>2023-01-01T16:00:00.000Z</published>
+    <updated>2024-01-02T13:55:40.577Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="C:\Users\86133\AppData\Roaming\Typora\typora-user-images\image-20231218200710746.png" alt="image-20231218200710746"></p><p><img src="C:\Users\86133\AppData\Roaming\Typora\typora-user-images\image-20231218200806503.png" alt="image-20231218200806503"></p><p>ACDADBABAC</p><p><img src="C:\Users\86133\AppData\Roaming\Typora\typora-user-images\image-20231218202237718.png" alt="image-20231218202237718"></p><p>2、与电压有关，与电机所带负载无关，会影响起动时间（重载起动容易烧，不是因为启动电流大，是因为启动时间长）</p><p><img src="C:\Users\86133\AppData\Roaming\Typora\typora-user-images\image-20231218202736882.png" alt="image-20231218202736882"></p><p>1、p2减小，不变损耗所占比重上升，（本来\eta&#x3D;P2&#x2F;P1，可变损耗都是成平方比的），效率下降了。Y接，电压降低根号3倍，磁通降低根号3倍，铁耗（不变损耗）降低，在轻载区效率大大升高。最大转矩变成原来角接的1&#x2F;3。</p><p><img src="C:\Users\86133\AppData\Roaming\Typora\typora-user-images\image-20231218204445180.png" alt="image-20231218204445180"></p><h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;C:&#92;Users&#92;86133&#92;AppData&#92;Roaming&#92;Typora&#92;typora-user-images&#92;image-20231218200710746.png&quot; alt=&quot;image-20231218200710746&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;im</summary>
+      
+    
+    
+    
+    
+    <category term="电机学" scheme="http://example.com/tags/%E7%94%B5%E6%9C%BA%E5%AD%A6/"/>
+    
+  </entry>
+  
 </feed>
