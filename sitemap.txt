@@ -1,3 +1,5 @@
+http://example.com/2024/07/15/ielts-reading/
+http://example.com/2024/07/15/0715/
 http://example.com/2024/07/13/0706/
 http://example.com/2024/07/05/0705/
 http://example.com/2024/07/04/0704/
@@ -8,3 +10,4 @@ http://example.com/2023/12/28/helloworld/
 http://example.com/
 http://example.com/tags/%E7%83%A4%E9%B8%AD/
 http://example.com/tags/%E6%97%A5%E5%B8%B8/
+http://example.com/tags/%E7%83%A4%E9%B8%AD-READING/
