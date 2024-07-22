@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2024/07/22/0722/</loc>
+    
+    <lastmod>2024-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2024/07/18/ielts-speaking/</loc>
+    
+    <lastmod>2024-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2024/07/17/ielts-writing/</loc>
     
-    <lastmod>2024-07-17</lastmod>
+    <lastmod>2024-07-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +31,7 @@
   <url>
     <loc>http://example.com/2024/07/15/ielts-reading/</loc>
     
-    <lastmod>2024-07-15</lastmod>
+    <lastmod>2024-07-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +112,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2024-07-17</lastmod>
+    <lastmod>2024-07-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,28 +120,35 @@
   
   <url>
     <loc>http://example.com/tags/%E7%83%A4%E9%B8%AD/</loc>
-    <lastmod>2024-07-17</lastmod>
+    <lastmod>2024-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2024-07-17</lastmod>
+    <lastmod>2024-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E7%83%A4%E9%B8%AD-READING/</loc>
-    <lastmod>2024-07-17</lastmod>
+    <lastmod>2024-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E7%83%A4%E9%B8%AD-SPEAKING/</loc>
+    <lastmod>2024-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E7%83%A4%E9%B8%AD-WRITING/</loc>
-    <lastmod>2024-07-17</lastmod>
+    <lastmod>2024-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
