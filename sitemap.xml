@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2024/07/25/0725/</loc>
+    <loc>http://example.com/2024/07/18/ielts-speaking/</loc>
     
-    <lastmod>2024-07-25</lastmod>
+    <lastmod>2024-07-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/2024/07/18/ielts-speaking/</loc>
+    <loc>http://example.com/2024/07/25/0725/</loc>
     
     <lastmod>2024-07-25</lastmod>
     
@@ -130,7 +130,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2024-07-25</lastmod>
+    <lastmod>2024-07-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -138,35 +138,35 @@
   
   <url>
     <loc>http://example.com/tags/%E7%83%A4%E9%B8%AD/</loc>
-    <lastmod>2024-07-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2024-07-25</lastmod>
+    <lastmod>2024-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E7%83%A4%E9%B8%AD-READING/</loc>
-    <lastmod>2024-07-25</lastmod>
+    <lastmod>2024-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2024-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E7%83%A4%E9%B8%AD-SPEAKING/</loc>
-    <lastmod>2024-07-25</lastmod>
+    <lastmod>2024-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E7%83%A4%E9%B8%AD-WRITING/</loc>
-    <lastmod>2024-07-25</lastmod>
+    <lastmod>2024-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
